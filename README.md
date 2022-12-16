@@ -1,5 +1,5 @@
 - 🎓 CS Student at the University of Massachuetts Lowell
-- 🦾 Research Engineer for [PeARL Robotics](https://www.pearl-robotics.com) @ UML
+- 🦾 Undergraduate Research Assistant for [PeARL Robotics](https://www.pearl-robotics.com) @ UML
 - 💻 Languages: Python, C
 - 💬 Discord: Karma~#0001
 
