@@ -1,4 +1,5 @@
 - 🎓 CS Student at the University of Massachuetts Lowell
+- 🦾 Research Engineer for PeaRL Robotics @ UML
 - 💻 Languages: Python, C
 - 💬 Discord: Karma~#0001
 
