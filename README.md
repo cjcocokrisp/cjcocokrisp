@@ -1,6 +1,6 @@
 - 🎓 CS Student at the University of Massachuetts Lowell
 - 🦾 Undergraduate Research Assistant for [PeARL](https://www.pearl-robotics.com) @ UML
-- 💻 Languages: Python, C
+- 💻 Languages: C, C++, C#, Python
 
 <!---
 cjcocokrisp/cjcocokrisp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
