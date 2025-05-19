@@ -1,5 +1,5 @@
 - 🎓 CS Student at the University of Massachuetts Lowell
-- 🦾 Undergraduate Research Assistant for [PeARL](https://www.pearl-robotics.com) @ UML
+- 🎩 Software Engineering Intern @ Red Hat working on the Openshift GitOps team
 - 💻 Languages: C, C++, Python, Go, JavaScript/TypeScript
 - 🔎 Interested in Cloud Native Technology, Backend Development, Large Scale Systems, Distributed Infastructure, and Networking
 
