@@ -1,5 +1,5 @@
 - 🎓 CS Student at the University of Massachuetts Lowell
-- 🎩 Software Engineering Intern @ Red Hat working on the Openshift GitOps team
+- 🎩 Software Engineering Intern @ Red Hat working on Openshift GitOps
 - 💻 Languages: C, C++, Python, Go, JavaScript/TypeScript
 - 🔎 Interested in Cloud Native Technology, Backend Development, Large Scale Systems, Distributed Infastructure, and Networking
 
