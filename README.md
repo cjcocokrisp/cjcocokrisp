@@ -6,7 +6,7 @@
 
 -  🎓 CS Student at the University of Massachuetts Lowell
 -  ☁️ Interested in Cloud Native Infastructure, Distributed Systems, and Networking
--  🎮 JRPGs & Fighting Games fanatic (Favorite Game: Trails into Reverie)
+-  🎮 JRPG & Fighting Game fanatic (Favorite Game: Trails into Reverie)
 -  🐧 I spend way too long customzing my Linux machines
 
 <br>
