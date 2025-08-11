@@ -6,15 +6,15 @@
 
 -  🎓 CS Student at the University of Massachuetts Lowell
 -  ☁️ Interested in Cloud Native Infastructure, Distributed Systems, and Networking
--  🎮 JRPGs & Fighting Games are the greatest (Favorite Game: Trails into Reverie)
--  🐧 I spend way too long customzing my Linux work machines
+-  🎮 JRPGs & Fighting Games fanatic (Favorite Game: Trails into Reverie)
+-  🐧 I spend way too long customzing my Linux machines
 
 <br>
 
 <h3><img src="./sqz.png" width="20"> Skills</h3>
 
 - **Programming & Scripting:** Golang, Python, C++, C, Javascript/Typescript, Bash, YAML, JSON
-- **Cloud Native & DevOps:** Kubernetes, Argo CD, Helm, Kustomize, Docker, Podman, bootc, AWS, Terraform
+- **Cloud Native & DevOps:** Kubernetes, Argo CD, Helm, Kustomize, Containerization, Bootc, AWS, Terraform
 - **Frameworks & Libraries:** React, Next.js, Tailwind CSS, SQLite, Pandas, Matplotlib, Pyserial
 - **Development Tools & Practices:** Git, Jira, Agile/Scrum, GitOps Principles, Unit Testing, LaTex
 
@@ -23,7 +23,7 @@
 - **Email:** chriscoco1205@gmail.com
 - **Discord**: karmareplicant
 
-
+### "Code breaks -> I'm the worst to ever do it -> Code works -> I'm the greatest to ever do it" 
 
 
 <!---
