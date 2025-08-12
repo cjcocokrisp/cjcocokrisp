@@ -2,7 +2,7 @@
 
 <img align="right" width=200px alt="Unicorn" src="./motivated.webp"/>
 
-<h3><img src="./mariodance.gif" width="20"> About Me</h3>
+<h3><img src="./tenna.webp" width="20"> About Me</h3>
 
 -  🎓 CS Student at the University of Massachuetts Lowell
 -  ☁️ Interested in Cloud Native Infastructure, Distributed Systems, and Networking
@@ -11,7 +11,7 @@
 
 <br>
 
-<h3><img src="./sqz.png" width="20"> Skills</h3>
+<h3><img src="./skills.webp" width="20"> Skills</h3>
 
 - **Programming & Scripting:** Golang, Python, C++, C, Javascript/Typescript, Bash, YAML, JSON
 - **Cloud Native & DevOps:** Kubernetes, Argo CD, Helm, Kustomize, Containerization, Bootc, AWS, Terraform
