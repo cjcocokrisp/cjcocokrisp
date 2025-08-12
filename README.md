@@ -11,7 +11,7 @@
 
 <br>
 
-<h3><img src="./skills.webp" width="20"> Skills</h3>
+<h3><img src="./orbment.webp" width="30"> Technologies & Skills</h3>
 
 - **Programming & Scripting:** Golang, Python, C++, C, Javascript/Typescript, Bash, YAML, JSON
 - **Cloud Native & DevOps:** Kubernetes, Argo CD, Helm, Kustomize, Containerization, Bootc, AWS, Terraform
