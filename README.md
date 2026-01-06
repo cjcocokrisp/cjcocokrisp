@@ -18,11 +18,6 @@
 - **Frameworks & Libraries:** React, Next.js, Tailwind CSS, SQLite, Pandas, Matplotlib, Pyserial
 - **Development Tools & Practices:** Git, Jira, Agile/Scrum, GitOps Principles, Unit Testing, LaTex
 
-<h3><img src="./dog-call.gif" width="25"> Contact</h3>
-
-- **Email:** chriscoco1205@gmail.com
-- **Discord**: karmareplicant
-
 ### "Code breaks -> I'm the worst to ever do it -> Code works -> I'm the greatest to ever do it" 
 
 
