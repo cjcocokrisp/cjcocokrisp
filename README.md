@@ -7,7 +7,7 @@
 -  🎩 Associate Software Engineer @ Red Hat working on OpenShift GitOps
 -  ☁️ Interested in Cloud Native Infastructure, Distributed Systems, and Networking
 -  🎮 JRPG & Fighting Game fanatic (Favorite Game: Trails into Reverie)
--  🐧 I spend way too long customzing my Linux machines
+-  🐧 I spend way too long customizing my Linux machines
 
 <br>
 
