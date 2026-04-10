@@ -5,7 +5,7 @@
 <h3><img src="./tenna.webp" width="20"> About Me</h3>
 
 -  🎩 Associate Software Engineer @ Red Hat working on OpenShift GitOps
--  ☁️ Interested in Cloud Native Infastructure, Distributed Systems, and Networking
+-  ☁️ Interested in Containers, Cloud Native Infastructure, Distributed Systems, and Networking
 -  🎮 JRPG & Fighting Game fanatic (Favorite Game: Trails into Reverie)
 -  🐧 I spend way too long customizing my Linux machines
 
